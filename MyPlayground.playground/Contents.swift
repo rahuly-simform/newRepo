@@ -17,5 +17,3 @@ print("hello world")
 //com 8
 
 
-new line
-
